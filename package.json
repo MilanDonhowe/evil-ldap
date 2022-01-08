@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MilanDonhowe/evil-ldap/issues"
   },
-  "homepage": "https://github.com/MilanDonhowe/evil-ldap#readme"
+  "homepage": "https://github.com/MilanDonhowe/evil-ldap#readme",
+  "dependencies": {
+    "ldapjs": "^2.3.1"
+  }
 }
